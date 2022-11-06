@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "string": "cpp",
+        "stack": "cpp",
+        "chrono": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "istream": "cpp",
+        "iterator": "cpp",
+        "ostream": "cpp",
+        "type_traits": "cpp"
+    }
+}

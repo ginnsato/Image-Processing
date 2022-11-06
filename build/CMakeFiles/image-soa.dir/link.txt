@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/image-soa.dir/image-soa/main-soa.cpp.o" -o image-soa  libcommon.a libsoa.a 

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/ginnsato/VisualStudioProjects/CS250-Project1/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -Wall -Wextra -Werror -pedantic -pedantic-errors -std=gnu++20 -o CMakeFiles/common.dir/common/progargs.cpp.o -c /Users/ginnsato/VisualStudioProjects/CS250-Project1/common/progargs.cpp",
+  "file": "/Users/ginnsato/VisualStudioProjects/CS250-Project1/common/progargs.cpp"
+},
+{
+  "directory": "/Users/ginnsato/VisualStudioProjects/CS250-Project1/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -Wall -Wextra -Werror -pedantic -pedantic-errors -std=gnu++20 -o CMakeFiles/aos.dir/aos/imageaos.cpp.o -c /Users/ginnsato/VisualStudioProjects/CS250-Project1/aos/imageaos.cpp",
+  "file": "/Users/ginnsato/VisualStudioProjects/CS250-Project1/aos/imageaos.cpp"
+},
+{
+  "directory": "/Users/ginnsato/VisualStudioProjects/CS250-Project1/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -Wall -Wextra -Werror -pedantic -pedantic-errors -std=gnu++20 -o CMakeFiles/soa.dir/soa/imagesoa.cpp.o -c /Users/ginnsato/VisualStudioProjects/CS250-Project1/soa/imagesoa.cpp",
+  "file": "/Users/ginnsato/VisualStudioProjects/CS250-Project1/soa/imagesoa.cpp"
+},
+{
+  "directory": "/Users/ginnsato/VisualStudioProjects/CS250-Project1/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -Wall -Wextra -Werror -pedantic -pedantic-errors -std=gnu++20 -o CMakeFiles/image-aos.dir/image-aos/main-aos.cpp.o -c /Users/ginnsato/VisualStudioProjects/CS250-Project1/image-aos/main-aos.cpp",
+  "file": "/Users/ginnsato/VisualStudioProjects/CS250-Project1/image-aos/main-aos.cpp"
+},
+{
+  "directory": "/Users/ginnsato/VisualStudioProjects/CS250-Project1/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -Wall -Wextra -Werror -pedantic -pedantic-errors -std=gnu++20 -o CMakeFiles/image-soa.dir/image-soa/main-soa.cpp.o -c /Users/ginnsato/VisualStudioProjects/CS250-Project1/image-soa/main-soa.cpp",
+  "file": "/Users/ginnsato/VisualStudioProjects/CS250-Project1/image-soa/main-soa.cpp"
+}
+]

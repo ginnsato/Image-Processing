@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/image-aos.dir/image-aos/main-aos.cpp.o" -o image-aos  libcommon.a libaos.a 
