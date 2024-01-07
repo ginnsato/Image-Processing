@@ -1,4 +1,4 @@
-# CS250-Project1
+# Image Processing
 
 In order to run the program:
 
